@@ -1,5 +1,5 @@
---- a/ath10k-6.7/mac.c
-+++ b/ath10k-6.7/mac.c
+--- a/ath10k-6.10/mac.c
++++ b/ath10k-6.10/mac.c
 @@ -6363,7 +6363,7 @@ static int ath10k_mac_set_txbf_conf(stru
  					 ar->wmi.vdev_param->txbf, value);
  }
